@@ -1,0 +1,81 @@
+.alignright { float: left;
+ margin-left: px;
+margin-right: 25px;
+border: 4px solid #000000;
+transform: scale(-1, 1)
+ padding: 10px;
+    border-radius: 10px;
+    background: #0c0c07;
+transform: scale(-1, 1)
+width: 150px;
+  webkit-filter: drop-shadow(5px 5px 5px #315ac4);
+  filter: drop-shadow(5px 5px 15px #315ac4);
+}
+.sub1{
+ float: right;
+ margin-left: 100px;
+margin-right: 250px;
+width: 15%;
+}
+div{
+ background-color: rgba(83, 152, 133, 0.5);
+text-shadow: 1px 1px 0red;
+padding:10px ;
+font-weight: 600;
+}
+body{
+background-image:url("img/SUB1.jpg");
+background-repeat: repeat-y;
+background-size: 100%;
+padding: 100px;
+background-attachment: fixed;
+}
+h1 { text-align:center;
+    color: #000000;
+    font-weight: 700;
+}
+p1 {
+ color: #1c1ce3;
+text-decoration:underline ;
+}
+p2 {
+ color: #1c1ce3;
+text-decoration:underline ;
+}
+p3 {
+ color: #1c1ce3;
+text-decoration:underline ;
+}
+li {
+ list-style-image: url(img/icon1.png);
+text-align:center
+}
+img {
+ height: auto;
+}
+ul{
+ text-align:center;
+left: 100;
+}
+p5 {
+color: #1c1ce3;
+text-decoration:underline ;
+}
+.sub2{
+ float: right;
+ margin-left: 150px;
+margin-right: 150px;
+width: 20%;
+border: 4px solid #5755d5;
+transform: scale(-1, 1)
+ padding: 10px;
+    border-radius: 10px;
+    background: #0c0c07;
+transform: scale(-1, 1)
+width: 150px;
+  webkit-filter: drop-shadow(55px 115px 55px #315ac4);
+  filter: drop-shadow(45px 5px 15px #315ac4);
+
+
+
+

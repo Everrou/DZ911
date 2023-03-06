@@ -1,0 +1,51 @@
+
+.alignright { float: left;
+ margin-left: px;
+margin-right: 25px;
+text-align:center;
+border: 5px solid #110bb0;}
+transform: scale(-1, 1)
+ padding: 10px;
+    border-radius: 10px;
+    background: #0c0c07;
+width: 150px;
+  webkit-filter: drop-shadow(5px 5px 5px #315ac4);
+  filter: drop-shadow(5px 5px 5px #315ac4);
+}
+
+.shadow {
+ box-shadow: -6px -6px 6px #a7a7a7;
+}
+
+.shadow:hover {
+ box-shadow: 6px 6px 6px #a7a7a7;
+ cursor: pointer;
+}
+
+div{
+ background-color: rgba(155, 241, 201, 0.5);
+text-shadow: 1px 1px 0red;
+padding:10px ;
+font-weight: 600;
+}
+
+body{
+background-image:url("img/Subaru.jpg");
+background-repeat: repeat-y;
+background-size: 100%;
+padding: 100px;
+background-attachment: fixed;
+}
+
+h3 { text-align:center;
+}
+
+ul{
+ text-align:center;
+left: 100;
+}
+
+p7 {
+ color: #1c1ce3;
+ text-decoration:underline ;
+}

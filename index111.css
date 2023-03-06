@@ -1,0 +1,35 @@
+#winter { color: rgb(0, 0, 200); }
+#spring { color: rgb(0, 190, 0); }
+#summer { color: #ffd24c; }
+#autumn { color: #d96c00; }
+
+#winter li { list-style-image:url("img/Morozz.png");
+
+}
+#spring li { list-style-image: url("img/Cvt1.png"); }
+#summer li { list-style-image: url("img/Abuz1.png"); }
+#autumn li { list-style-image: url("img/Listt.png"); }
+
+li{
+list-style-image:url("img/str2.png");
+ margin-top: ;
+ margin-bottom: ;
+ padding-left: px;
+}
+
+ol {
+ font-weight: 600;
+ font-family: sans-serif;
+
+}
+ul
+{
+ font-weight: 200;
+
+}
+
+body {
+  margin:auto;
+ background-color: #cacae8
+}
+

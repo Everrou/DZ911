@@ -1,0 +1,9 @@
+ul{
+    color: fuchsia;
+    background-color: lavender;
+    width: 400px;
+    list-style-type: square;
+
+    ul{
+    list-style-image: url (сайт);
+    }

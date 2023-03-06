@@ -1,0 +1,39 @@
+body {
+background-image:url(img/kot1.jpg);
+background-repeat: repeat-y;
+background-size: 100%;
+padding: 100px;
+background-attachment: fixed;
+}
+div{
+ background-color: rgba(155, 241, 201, 0.5);
+text-shadow: 1px 1px 0red;
+padding:10px ;
+font-weight: 600;
+}
+nav{
+    background-color: #cfeee8;
+text-align: center;
+padding: 10px;
+}
+
+ol{
+ list-style-type: none;
+}
+
+li{
+    display:inline ;
+margin-right: 100px;
+font-size: 24px;
+}
+
+a{
+    text-decoration: none;
+color: blue;
+}
+
+li:hover{
+
+color: red;
+    text-decoration: none;
+}
